@@ -4,3 +4,4 @@ venv
 *.xlsx
 TO_DO.md
 app.log
+__pycache__
